@@ -1,6 +1,7 @@
 # Davis-Sunflowers-Su21
 
-Project goals:
+#Project goals:
+
 Plants influence their reproduction and mating system in many ways. Various factors
 such as time of flowering, ability to attract pollinators, the position of their anthers and
 stigmas, timing of anthers opening and pollen dispersal, and receptivity of stigmas. All of
@@ -15,7 +16,8 @@ depends heavily on insects for pollination. We use genomic and quantitative gene
 approaches to understand better how the precise timing of floral development promotes
 cross-pollination.
 
-Materials/Methods
+#Materials/Methods:
+
 In Summer 2021, we plan to grow segregating progeny of a cross between two populations
 (Manitoba and Kansas) collections at UC Davis field experiment station. At anthesis, we
 set up time-lapse cameras to capture events of floral maturation- bud break, pollen
